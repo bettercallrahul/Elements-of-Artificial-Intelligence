@@ -1,6 +1,6 @@
 # a1-forrelease
 # B551 Assignment 1: 
-Name- Sai Saathvik Domala , Sravani Wayangankar, Rahul Gomathi
+Name- Sai Saathvik Domala , Sravani Wayangankar, Rahul Gomathi Sankarakrishnan
 
 # Part 1 - 2021 Solver
 
